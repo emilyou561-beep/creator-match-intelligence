@@ -1,0 +1,5 @@
+risk_id,creator_id,risk_type,risk_description,severity,verification_status,record_status,record_date,evidence_source,reviewed_at
+1,3,Disclosure,Synthetic unresolved sponsorship disclosure example,Medium,Verified,Active,2025-04-12,synthetic_manual_review,2026-06-01
+2,6,Brand Safety,Synthetic low-severity content context example,Low,Unverified,Monitoring,,synthetic_monitoring_example,2026-05-20
+3,8,Brand Safety,Synthetic high-severity active brand-safety example,High,Verified,Active,2026-02-14,synthetic_manual_review,2026-07-25
+4,9,Disclosure,Synthetic historical disclosure example,Low,Verified,Resolved,2024-08-03,synthetic_manual_review,2026-03-15

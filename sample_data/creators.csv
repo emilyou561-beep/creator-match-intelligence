@@ -1,0 +1,11 @@
+creator_id,creator_code,creator_name,primary_category,market,profile_summary,data_completeness_score,profile_status,created_at,updated_at
+1,CR001,Maya Chen,Beauty,US,Educational skincare and sensitive-skin routines,95,Active,2026-01-15,2026-07-20
+2,CR002,Jordan Lee,Lifestyle,US,"Wellness, home, and everyday routine content",82,Active,2026-01-18,2026-07-11
+3,CR003,Sofia Martin,Fashion,UK,Sustainable styling and capsule wardrobe ideas,88,Active,2026-02-03,2026-07-29
+4,CR004,Avery Brooks,Beauty,US,Clean beauty reviews and ingredient explainers,91,Active,2026-02-10,2026-07-30
+5,CR005,Noah Kim,Fitness,CA,Strength training and practical recovery guidance,86,Active,2026-02-22,2026-07-17
+6,CR006,Elena Rossi,Lifestyle,IT,"Travel, home, and slow-living storytelling",67,Active,2026-03-05,2026-06-28
+7,CR007,Kai Morgan,Tech,US,Consumer technology reviews and tutorials,93,Active,2026-03-11,2026-08-01
+8,CR008,Amara Patel,Fashion,US,Affordable fashion and beauty crossover content,79,Active,2026-03-18,2026-07-25
+9,CR009,Lucas Green,Fitness,AU,"Running, outdoor fitness, and nutrition content",74,Active,2026-04-02,2026-07-09
+10,CR010,Nina Alvarez,Beauty,,Minimal makeup and product review content,58,Active,2026-04-15,2026-06-14

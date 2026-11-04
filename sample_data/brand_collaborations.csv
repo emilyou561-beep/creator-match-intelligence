@@ -1,0 +1,15 @@
+collaboration_id,creator_id,brand_name,brand_industry,collaboration_type,collaboration_date,verified,evidence_source,notes
+1,1,Lumera Beauty,Beauty,Sponsored Post,2025-06-10,1,synthetic_manual_review,
+2,1,PureKind Labs,Skincare,Product Review,2025-09-15,1,synthetic_manual_review,Sensitive-skin serum
+3,2,Vela Wellness,Wellness,Sponsored Post,2025-08-02,1,synthetic_manual_review,
+4,3,ThreadKind,Fashion,Lookbook,2025-05-18,1,synthetic_manual_review,Sustainable collection
+5,4,Botaniq Studio,Beauty,Product Review,2025-10-07,1,synthetic_manual_review,Clean beauty launch
+6,4,Dermalune,Skincare,Sponsored Post,2026-01-22,1,synthetic_manual_review,
+7,5,Northform,Fitness,Ambassador,2025-11-04,1,synthetic_manual_review,
+8,6,Casa Morrow,Home,Sponsored Post,,0,synthetic_unverified_example,
+9,7,Novacore,Technology,Product Review,2026-02-12,1,synthetic_manual_review,
+10,7,PixelHarbor,Technology,Tutorial,2025-12-01,1,synthetic_manual_review,
+11,8,ModeNest,Fashion,Sponsored Post,2025-07-19,1,synthetic_manual_review,
+12,8,GlowMint,Beauty,Product Seeding,2025-09-28,0,synthetic_unverified_example,
+13,9,TrailArc,Fitness,Product Review,2025-04-30,1,synthetic_manual_review,
+14,10,MiraMuse,Beauty,Product Seeding,,,synthetic_unknown_example,

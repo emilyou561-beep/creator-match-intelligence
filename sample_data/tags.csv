@@ -1,0 +1,21 @@
+tag_id,tag_name,tag_group,is_active
+1,Skincare,Topic,1
+2,Clean Beauty,Topic,1
+3,Sensitive Skin,Topic,1
+4,Product Reviews,Content Style,1
+5,Wellness,Topic,1
+6,Sustainable Fashion,Topic,1
+7,Styling,Content Style,1
+8,Strength Training,Topic,1
+9,Recovery,Topic,1
+10,Travel,Topic,1
+11,Home,Topic,1
+12,Consumer Tech,Topic,1
+13,Tutorials,Content Style,1
+14,Affordable Fashion,Topic,1
+15,Makeup,Topic,1
+16,Running,Topic,1
+17,Nutrition,Topic,1
+18,Minimal Beauty,Content Style,1
+19,Ingredient Education,Content Style,1
+20,Outdoor Fitness,Topic,1

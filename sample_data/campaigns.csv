@@ -1,0 +1,6 @@
+campaign_id,campaign_name,product_description,target_category,brand_experience_preference,risk_tolerance,created_at
+1,Sensitive Skin Serum Launch,Serum for sensitive skin,Beauty,Preferred,Low,2026-08-01
+2,Home Wellness Routine,Daily wellness product,Lifestyle,Preferred,Medium,2026-08-01
+3,Sustainable Capsule Collection,Sustainable clothing collection,Fashion,Required,Low,2026-08-01
+4,Smart Home Device Demo,Consumer smart-home device,Tech,Required,Medium,2026-08-01
+5,Outdoor Running Campaign,Running accessory,Fitness,Preferred,Low,2026-08-01
