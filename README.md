@@ -2,7 +2,11 @@
 
 Give it a campaign brief (category, tags, how much brand experience matters, how much risk is OK) and it returns up to five creators that fit, with the score broken down so you can see why each one is on the list. It narrows the list and flags risks; the final call is still a person's.
 
-![Python](https://img.shields.io/badge/Python-3.12-00274C?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-7%20tables-00274C?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-app-00274C?style=flat-square) ![tests](https://img.shields.io/badge/tests-pytest-00274C?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.12-00274C?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-7%20tables-00274C?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-app-00274C?style=flat-square) ![tests](https://img.shields.io/badge/tests-16%20passing-00274C?style=flat-square)
+
+**Example:** a low-risk skincare brief for sensitive skin returns 2 creators, not 5. The rest were filtered out by the eligibility rules or scored under 50, so the tool shows a shorter list instead of padding it.
+
+![Creator shortlist in the Streamlit app](docs/images/app_shortlist.png)
 
 ## How the score works
 
